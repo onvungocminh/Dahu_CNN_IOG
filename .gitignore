@@ -1,0 +1,12 @@
+__pycache__/*
+.idea
+datasets/*
+eval_results/*
+ims/*
+run/
+run_0/
+run0/
+runs/
+dataloaders/__pycache__/*
+networks/__pycache__/*
+evaluation/__pycache__/*
